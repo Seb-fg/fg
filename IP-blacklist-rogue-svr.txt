@@ -89,3 +89,4 @@
 202.114.4.119
 195.177.95.25
 195.211.190.106
+firebasestorage.googleapis.com
