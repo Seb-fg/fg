@@ -17,7 +17,9 @@ smpytr.weebly.com
 https://*.weebly.com/
 *.weebly.com
 https://ffm.link
+ffm.link
 https://*.ffm.link
+*.ffm.link
 https://ffm.link/wglx7y8.OEM
 https://letsencrypt.org
 *.letsencrypt.org
